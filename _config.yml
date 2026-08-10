@@ -22,10 +22,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://0xbrxzyy.github.io"
+url: "https://brxzy-y.github.io"
 
 github:
-  username: 0xbrxzyy # change to your GitHub username
+  username: brxzy-y  # change to your GitHub username
 
 discord:
  username: 1207894752150945792 #lol
@@ -38,7 +38,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/0xbrxzyy # change to your GitHub homepage
+    - https://github.com/brxzy-y # change to your GitHub homepage
     - https://app.hackthebox.com/users/2200593?
     - https://discord.com/users/1207894752150945792
     # Uncomment below to add more social links
