@@ -5,7 +5,7 @@
 
 - type: hackthebox
   icon: "fas fa-cube"
-  url: "https://app.hackthebox.com/users/2200593"
+  url: "https://app.hackthebox.com/public/users/2200593"
 
 - type: discord
   icon: "fab fa-discord"
